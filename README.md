@@ -3,13 +3,13 @@
 hopefully no secrets were leaked lol
 
 # Details:
-OS: Mac OS\
-WM: Yabai\
-Terminal: iTerm2\
-Status Bar: Sketchybar\
-Text Editor: Lunarvim\
-Dynamic Island: boring.notch\
-Theme: idk i got it from pywal16 and wallpaper\
+* OS: Mac OS
+* WM: Yabai
+* Terminal: iTerm2
+* Status Bar: Sketchybar
+* Text Editor: Lunarvim
+* Dynamic Island: boring.notch
+* Theme: idk i got it from pywal16 and wallpaper
 
 # TODOs
 - [x] Redesign clock layout in sketchybar
