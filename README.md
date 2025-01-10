@@ -1,5 +1,14 @@
 # Dotfiles Preview
-<img width="1728" alt="Screenshot 2024-12-23 at 8 09 55 PM" src="https://github.com/user-attachments/assets/7e9c5fa2-9688-45f5-be0e-826e9c3283eb" />
-Hopefully I didn't leak any secrets lol.
+![Screenshot 2025-01-10 at 1 31 00 PM](https://github.com/user-attachments/assets/23c644ca-dce5-4d7a-be85-eee5aec2b5fe)
+
+Details
+
+OS: Mac OS
+WM: Yabai
+Terminal: iTerm2
+Status Bar: Sketchybar
+Text Editor: Lunarvim
+Dynamic Island: boring.notch
 
 # Installation Script
+Coming later ...
