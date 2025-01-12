@@ -14,8 +14,8 @@ hopefully no secrets were leaked lol
 # TODOs
 - [x] Redesign clock layout in sketchybar
 - [x] Add dynamic island on all monitors 
-- [] Add calendar time blocks to sketchybar
-- [] Add weather to sketchybar
-- [] Add screentime filters to sketchybar
-- [] Upload the actual dotfiles to this repo
-- [] Add extra lunarvim configs
+- [ ] Add calendar time blocks to sketchybar
+- [ ] Add weather to sketchybar
+- [ ] Add screentime filters to sketchybar
+- [ ] Upload the actual dotfiles to this repo
+- [ ] Add extra lunarvim configs
