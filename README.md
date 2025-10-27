@@ -1,6 +1,6 @@
 # Dotfiles Preview
-![Screenshot 2025-01-10 at 1 31 00 PM](https://github.com/user-attachments/assets/23c644ca-dce5-4d7a-be85-eee5aec2b5fe)
-hopefully no secrets were leaked lol
+<img width="2560" height="1440" alt="Screenshot 2025-10-26 at 10 26 04 PM" src="https://github.com/user-attachments/assets/f07694e5-3cfd-4618-88d4-942d9c0bf64c" />
+
 
 # Details:
 * OS: Mac OS
@@ -8,8 +8,8 @@ hopefully no secrets were leaked lol
 * Terminal: iTerm2
 * Status Bar: Sketchybar
 * Text Editor: Lunarvim
-* Dynamic Island: boring.notch
-* Theme: idk i got it from pywal16 and wallpaper
+* Theme: Catppuccin
+* Browser: Firefox
 
 # TODOs
 - [x] Redesign clock layout in sketchybar
@@ -18,4 +18,4 @@ hopefully no secrets were leaked lol
 - [ ] Add weather to sketchybar
 - [ ] Add screentime filters to sketchybar
 - [ ] Upload the actual dotfiles to this repo
-- [ ] Add extra lunarvim configs
+- [ ] Switch over to neovim
