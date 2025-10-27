@@ -12,6 +12,7 @@
 * Browser: Firefox
 
 # TODOs
+- [ ] Actually upload my dotfiles (this would be easier with nix smh)
 - [x] Redesign clock layout in sketchybar
 - [x] Add dynamic island on all monitors 
 - [ ] Add calendar time blocks to sketchybar
